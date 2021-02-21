@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CinemaApi.Migrations
 {
     [DbContext(typeof(CinemaDbContext))]
-    [Migration("20200810103048_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20210220174340_InitialMgratin")]
+    partial class InitialMgratin
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
